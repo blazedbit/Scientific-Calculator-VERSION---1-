@@ -57,10 +57,9 @@ python3 main.py
 ```text
 python-calculator/
 │
-├── main.py       # Main program and operation menu
-├── function.py   # Mathematical functions and expression evaluator
-├── README.md     # Project documentation
-└── .gitignore    # Git ignore configuration
+├── function.py
+├── main.py
+├── README.md
 ```
 
 ## Version 1.0 Limitations
