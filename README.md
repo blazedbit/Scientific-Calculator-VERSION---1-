@@ -37,7 +37,7 @@ Features
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/python-calculator.git
+git clone https://github.com/blazedbit/python-calculator.git
 ```
 
 ### 2. Navigate to the Project Directory
@@ -55,7 +55,7 @@ python3 main.py
 ## Project Structure
 
 ```text
-python-calculator/
+Scientific-Calculator-VERSION---1-/
 │
 ├── function.py
 ├── main.py
